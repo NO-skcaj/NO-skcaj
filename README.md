@@ -10,5 +10,3 @@ Skills: I only do real programming (C/C++/Holy C)
 - 💬 Ask me about robotics, C++, our lord and saviour, the Flying Spaghetti Monster, Terry Davis, and Femboyism.
 - 🤔 I’m looking for help with WOMEN and not crying about library bugs that make my code no worky.
 - 📫 To reach me: I'm under 18.
-
-<img src="github-metrics.svg" alt="Metrics">
