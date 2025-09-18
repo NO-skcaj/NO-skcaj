@@ -1,31 +1,14 @@
-<!--
-**Vitlyr/Vitlyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Name is NO_skacj 
+##### AKA Goy Boi in Chief of the 3824 Robotics Team
 
-Here are some ideas to get you started:
+I’ve been gooning since 2001 when I discovered Holy C and realized that the only thing I cared about was programming the most holy code in an attempt to discover the 3rd and final temple in order to bring back our glorious God, the Flying Spaghetti Monster, and this enlightening revelation was brought to you by Dean Kamen, inventor of the Segway and co-founder of FIRST.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: I only do real programming (C/C++/Holy C)
 
-### Hi there 👋, My Name is NO_skacj 
-##### AKA Jackson
-
-I’ve been creating games & developing since 2018 and I’ve been on the Roblox platform for a long time, I enjoy creating games as much as I do coding and scripting while working on  complex projects.
-
-Skills: I only do real programming
-
-- 🔭 I’m currently working on gooning.
-- 🌱 I’m currently learning C++, Python, Holy C
-- 💬 Ask me about WPILIB
-- 🤔 I’m looking for help with WOMEN.
-- 📫 To reach me, email me at: go away creep.
-- 😄 Pronouns: U S A
-
+- 🔭 I’m currently working on gooning to Terry Davis.
+- 🌱 I’m currently learning C++, Python, Holy C.
+- 💬 Ask me about robotics, C++, our lord and saviour, the Flying Spaghetti Monster, Terry Davis, and Femboyism.
+- 🤔 I’m looking for help with WOMEN and not crying about library bugs that make my code no worky.
+- 📫 To reach me: I'm under 18.
 
 <img src="github-metrics.svg" alt="Metrics">
