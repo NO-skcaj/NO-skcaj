@@ -1,9 +1,9 @@
 ### My Name is NO_skcaj 
 ##### Programming Lead of FRC Team 3824 
 
-I’ve been gooning since 1999 when I discovered Holy C and realized that the only thing I cared about was programming the most holy code in an attempt to discover the 3rd and final temple in order to bring back our glorious God, the Flying Spaghetti Monster, and this enlightening revelation was brought to you by Dean Kamen, friend of Epstein, inventor of the Segway, and co-founder of FIRST.
+I’ve been gooning since 1999 when I discovered Holy C and realized that the only thing I cared about was programming the most holy code in an attempt to discover the 3rd and final temple in order to bring back our glorious God, the Flying Spaghetti Monster, and this enlightening revelation was brought to you by Dean Kamen, inventor of the Segway, and estranged co-founder of FIRST.
 
-Seriously though, I'm the programming lead for my robotics team. I write C++/Java/Rust, utilizing libraries from WPI, CTR, REV, Studica, and other community built libraries. As a part of being the programming lead, I also help teach high schoolers programming, giving them hands on experience with real production code. The robots that I and my team write code for are worth >$10,000 and weigh upwards of 120 lbs; they require a lot of care and a lot of QC to make work.
+Seriously though, I'm the programming lead for my robotics team. I write C++/Java/Rust, utilizing libraries from WPI, CTR, REV, Studica, and other community built libraries. As a part of being the programming lead, I also help teach high schoolers programming, giving them hands on experience with real production code. The robots that I and my team write code for are worth >$10,000 and weigh upwards of 120 lbs; they require a lot of care and a lot of QC to make work. I am the co-founder of [KnoxRigs](knoxrigs.com), a PC OEM operating in Knoxville, Tennessee.
 
 Skills: C++, Java, Rust
 
